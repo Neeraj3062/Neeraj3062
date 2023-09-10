@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Neeraj Bukane</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj3062&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj3062" /> </p>
 
+- 🌱 I’m currently practicing **MERN,PostgreSQl**
+
+- 👨‍💻 All of my projects are available at [https://bit.ly/NeerajSBPortfolio](https://bit.ly/NeerajSBPortfolio)
+
+- 💬 Ask me about **MERN,Ui/Ux Deisigning**
+
 - 📫 How to reach me **neerajbukane30@gmail.com**
+
+- My Resume [https://bit.ly/NeerajSBukaneResume](https://bit.ly/NeerajSBukaneResume)
+
+- ⚡ Fun fact **I'm a chess guy developing by elo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
