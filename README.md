@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **neerajbukane30@gmail.com**
 
-- 📃 My Resume [https://bit.ly/NeerajSBukaneResume](https://bit.ly/NeerajSBukaneResume)
-
 - ⚡ Fun fact **I'm a chess guy developing by elo!**
 
 <h3 align="left">Connect with me:</h3>
