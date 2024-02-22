@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently practicing **MERN,PostgreSQl**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/NeerajSBPortfolio](https://bit.ly/NeerajSBPortfolio)
+- 👨‍💻 All of my projects are available at [https://neerajbukane.vercel.app/](https://neerajbukane.vercel.app/)
 
 - 💬 Ask me about **MERN,Ui/Ux Deisigning**
 
