@@ -70,19 +70,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neeraj3062&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj3062&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=neeraj3062&hide_border=true&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ## Currently
 
 - 📐 Learning **system design** — building with scalability and architecture tradeoffs in mind
