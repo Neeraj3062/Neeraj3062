@@ -18,11 +18,11 @@
 
 ## About Me
 
-- 🔨 **Builder at heart** — I love taking an idea from zero to a working product people actually use
+- 🔨 **Builder at heart** I love taking an idea from zero to a working product people actually use
 - 🧠 I believe great development starts with understanding the *why* before writing a single line of code
 - ⚡ Currently focused on **Next.js**, **Node.js**, and building production-ready, scalable web applications
-- 🎯 Product-minded developer — UX, performance, and real-world impact matter as much as the code
-- ♟️ Chess player — always thinking a few moves ahead, on the board and in architecture decisions
+- 🎯 Product-minded developer UX, performance, and real-world impact matter as much as the code
+- ♟️ Chess player always thinking a few moves ahead, on the board and in architecture decisions
 
 ---
 
@@ -42,28 +42,28 @@
 
 ## Featured Projects
 
-### [Vote Arena](https://votearena.vercel.app/coming-soon) — Real-time Gamified Voting Platform
-> Built a live voting system where users compete in real-time polls with dynamic leaderboards and instant updates — turning passive voting into an engaging experience.
+### [Vote Arena](https://votearena.vercel.app/coming-soon) Real-time Gamified Voting Platform
+> Built a live voting system where users compete in real-time polls with dynamic leaderboards and instant updates turning passive voting into an engaging experience.
 
 `Next.js` `Supabase Realtime` `Tailwind CSS` `TypeScript` `Vercel`
 
 ---
 
-### [Nashik Cab Services](https://nashik-cabservices.vercel.app/) — Ride Booking Web App
+### [Nashik Cab Services](https://nashik-cabservices.vercel.app/) Ride Booking Web App
 > Designed and developed a complete ride booking platform with service listings, booking flows, and a clean, user-focused interface tailored for local cab operations.
 
 `Next.js` `Supabase` `Tailwind CSS` `TypeScript` `Vercel`
 
 ---
 
-### [Cake Studio](https://cakeshop-demo.vercel.app/) — E-commerce Storefront
-> End-to-end e-commerce experience for a bakery brand — product catalog, cart functionality, and a polished, conversion-focused frontend.
+### [Cake Studio](https://cakeshop-demo.vercel.app/) E-commerce Storefront
+> End-to-end e-commerce experience for a bakery brand product catalog, cart functionality, and a polished, conversion-focused frontend.
 
 `Next.js` `Supabase` `Tailwind CSS` `TypeScript` `Vercel`
 
 ---
 
-### [Architect Portfolio](https://architects-portfolio-demo.vercel.app/) — Design Portfolio Website
+### [Architect Portfolio](https://architects-portfolio-demo.vercel.app/) Design Portfolio Website
 > Built a sleek, minimal portfolio for an architecture firm with a focus on visual storytelling, clean layout, and performance.
 
 `Next.js` `Tailwind CSS` `Vercel`
@@ -72,8 +72,8 @@
 
 ## Currently
 
-- 📐 Learning **system design** — building with scalability and architecture tradeoffs in mind
-- 🛠️ Strengthening **DevOps** fundamentals — Docker, CI/CD, deployment pipelines
+- 📐 Learning **system design** building with scalability and architecture tradeoffs in mind
+- 🛠️ Strengthening **DevOps** fundamentals Docker, CI/CD, deployment pipelines
 - 🔨 Always shipping something new
 
 ---
