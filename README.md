@@ -1,26 +1,100 @@
-<h1 align="center">Hi 👋, I'm Neeraj Bukane</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj3062&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj3062" /> </p>
+﻿<div align="center">
 
-- 🌱 I’m currently practicing **MERN,PostgreSQl**
+# Neeraj Bukane
 
-- 👨‍💻 All of my projects are available at [https://neerajbukane.vercel.app/](https://neerajbukane.vercel.app/)
+### Full Stack Developer &nbsp;·&nbsp; Product Thinker &nbsp;·&nbsp; Builder
 
-- 💬 Ask me about **MERN,Ui/Ux Deisigning**
+*I build meaningful, scalable products by deeply understanding business logic and translating it into purposeful, clean solutions.*
 
-- 📫 How to reach me **neerajbukane30@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://neerajbukane.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-bukane)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neerajbukane30@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/neerajb3062)
+![Profile Views](https://komarev.com/ghpvc/?username=neeraj3062&color=0e75b6&style=flat-square&label=Profile+Views)
 
-- ⚡ Fun fact **I'm a chess guy developing by elo!**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/neerajb3062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neerajb3062" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neeraj bukane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj bukane" height="30" width="40" /></a>
+---
+
+## About Me
+
+- 🔨 **Builder at heart** — I love taking an idea from zero to a working product people actually use
+- 🧠 I believe great development starts with understanding the *why* before writing a single line of code
+- ⚡ Currently focused on **Next.js**, **Node.js**, and building production-ready, scalable web applications
+- 🎯 Product-minded developer — UX, performance, and real-world impact matter as much as the code
+- ♟️ Chess player — always thinking a few moves ahead, on the board and in architecture decisions
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | JavaScript · Python · C++ |
+| **Frontend** | React · Next.js · Tailwind CSS · Bootstrap |
+| **Backend** | Node.js · Express.js · FastAPI · Django |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Snowflake · Supabase |
+| **Applied AI** | RAG · LLM Integration · Prompt Engineering · Agentic Workflows |
+| **Cloud** | Vercel · Azure (Basics) |
+| **Tools & Platforms** | Git · GitHub · Docker · Firebase · Figma · Power BI · Power Apps · Power Automate · SharePoint |
+
+---
+
+## Featured Projects
+
+### [Vote Arena](https://votearena.vercel.app/coming-soon) — Real-time Gamified Voting Platform
+> Built a live voting system where users compete in real-time polls with dynamic leaderboards and instant updates — turning passive voting into an engaging experience.
+
+`Next.js` `Supabase Realtime` `Tailwind CSS` `TypeScript` `Vercel`
+
+---
+
+### [Nashik Cab Services](https://nashik-cabservices.vercel.app/) — Ride Booking Web App
+> Designed and developed a complete ride booking platform with service listings, booking flows, and a clean, user-focused interface tailored for local cab operations.
+
+`Next.js` `Supabase` `Tailwind CSS` `TypeScript` `Vercel`
+
+---
+
+### [Cake Studio](https://cakeshop-demo.vercel.app/) — E-commerce Storefront
+> End-to-end e-commerce experience for a bakery brand — product catalog, cart functionality, and a polished, conversion-focused frontend.
+
+`Next.js` `Supabase` `Tailwind CSS` `TypeScript` `Vercel`
+
+---
+
+### [Architect Portfolio](https://architects-portfolio-demo.vercel.app/) — Design Portfolio Website
+> Built a sleek, minimal portfolio for an architecture firm with a focus on visual storytelling, clean layout, and performance.
+
+`Next.js` `Tailwind CSS` `Vercel`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neeraj3062&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj3062&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=neeraj3062&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj3062&show_icons=true&locale=en" alt="neeraj3062" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj3062&" alt="neeraj3062" /></p>
+## Currently
+
+- 📐 Learning **system design** — building with scalability and architecture tradeoffs in mind
+- 🛠️ Strengthening **DevOps** fundamentals — Docker, CI/CD, deployment pipelines
+- 🔨 Always shipping something new
+
+---
+
+## Connect
+
+Have an interesting problem to solve or a product to build? Let's talk.
+
+[![Portfolio](https://img.shields.io/badge/neerajbukane.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://neerajbukane.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj_Bukane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-bukane)
+[![Email](https://img.shields.io/badge/neerajbukane30@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neerajbukane30@gmail.com)in 
